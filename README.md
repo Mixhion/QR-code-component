@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL](https://glowing-bonbon-8120ed.netlify.app/)
+- Solution URL: (https://glowing-bonbon-8120ed.netlify.app/)
 
 
 ## My process
